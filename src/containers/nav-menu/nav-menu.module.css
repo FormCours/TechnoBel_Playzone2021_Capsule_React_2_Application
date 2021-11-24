@@ -1,0 +1,7 @@
+.nav {
+    min-width: 200px;
+}
+
+.nav ul a {
+    padding-right: 50px;
+}
